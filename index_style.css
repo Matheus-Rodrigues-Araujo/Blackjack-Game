@@ -92,3 +92,11 @@ h1{
     background-color: rgb(255, 217, 1);
     font-size: 30px;
 }
+
+#player-el{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 47%;
+    top: 85%;
+}
